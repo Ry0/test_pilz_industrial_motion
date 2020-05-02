@@ -70,6 +70,7 @@ rosrun motoman_viz forward_kinetics_solver_joint_state
 ## 参考資料
 
 [![img](.img/slide.jpg)](https://www.slideshare.net/RyoKabutan/moveit-pilz-industrial-motion)
+
 https://www.slideshare.net/RyoKabutan/moveit-pilz-industrial-motion
 
 ### その他参考資料
