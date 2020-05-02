@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>motoman_viz</name>
+  <version>1.0.0</version>
+  <description>The motoman_viz package</description>
+  
+  <maintainer email="groadpg@gmail.com">RyodoTanaka</maintainer>
+  <license>BSD</license>
+  <url type="repository">http://github.com/Nishida-Lab/motoman_project</url>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>cmake_modules</depend>
+  <depend>eigen_conversions</depend>
+  <depend>moveit_core</depend>
+  <depend>moveit_msgs</depend>
+  <depend>moveit_ros_move_group</depend>
+  <depend>motoman_viz_msgs</depend>
+  <depend>roscpp</depend>
+  <depend>tf</depend>
+  <depend>tf_conversions</depend>
+
+</package>
